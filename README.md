@@ -3,7 +3,8 @@
 
 <br>  
 
-<div><a href="[https://instagram.com/seu-usuário-instagram-aqui](https://www.instagram.com/ijheess/profilecard/?igsh=MW9zZzhvaTJ4eW14eQ==)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="www.linkedin.com/in/jessicaluanda" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+<a href="https://www.instagram.com/ijheess/profilecard/?igsh=MW9zZzhvaTJ4eW14eQ==)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<a href="www.linkedin.com/in/jessicaluanda" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
 </a> 
 <br>
 
