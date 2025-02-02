@@ -1,7 +1,7 @@
 
 # Jéssica Luanda   
 
-#### Hello! Tenho 28 anos, moro em Brasília/DF e sou apaixonada por qualidade! Estou em transição de carreira para área de TI como QA.😍
+#### Hello! Tenho 29 anos, moro em Brasília/DF e sou apaixonada por qualidade! Estou em transição de carreira para área de TI como QA.😍
 
 <br>  
 
